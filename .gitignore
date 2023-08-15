@@ -158,3 +158,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+/llama-2-70b-chat/
+/llama-2-70b/
+/llama-2-13b-chat/
+/llama-2-13b/
+/llama-2-7b-chat/
+/llama-2-7b/
+/completion_text.txt
+/response.txt
